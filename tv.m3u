@@ -5,7 +5,7 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 
 #EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
 #EXTVLCOPT:network-caching=2000
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 
 #EXTINF:-1 tvg-name="BR Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Nord HD
 #EXTVLCOPT:network-caching=2000
@@ -21,17 +21,17 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 
 #EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
 #EXTVLCOPT:network-caching=2000
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 
 #EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
 #EXTVLCOPT:network-caching=2000
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 #EXTVLCOPT:network-caching=2000
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://www.telekom.de/is-bin/INTERSHOP.static/WFS/EKI-PK-Site/EKI-PK/de_DE/themen/senderwall/page/images/channel-wall/logos/senderlogo-phoenix-hd.png",phoenix
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
 #EXTVLCOPT:network-caching=2000
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 
@@ -61,7 +61,7 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 
 #EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
 #EXTVLCOPT:network-caching=2000
-https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-b.m3u8
+https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
 
 #EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
 #EXTVLCOPT:network-caching=2000
@@ -109,16 +109,36 @@ https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 
 #EXTINF:-1 tvg-name="DW TV" tvg-id="dw.com" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",DW TV
 #EXTVLCOPT:network-caching=2000
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-name="ABC News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" group-title="Private" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png",RTL
 #EXTVLCOPT:network-caching=2000
-https://abclive1-lh.akamaihd.net/i/abc_live04@423398/index_4000_av-p.m3u8
+http://5.135.92.133:52841/out/u/115_1.m3u8
 
-#EXTINF:-1 tvg-name="CBSN" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbsn.png",CBSN
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png",RTL Nitro
 #EXTVLCOPT:network-caching=2000
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master_2200.m3u8
+http://188.35.9.5:10020/stolen/479d/hot.dll
 
-#EXTINF:-1 tvg-name="CBN News" tvg-id="" group-title="International;Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/cbnnews.png",CBN News
+#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png",RTL Plus
 #EXTVLCOPT:network-caching=2000
-https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_900_av-p.m3u8
+http://188.35.9.5:10020/stolen/480c/hot.dll
+
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/2000px-RTL2_Logo.svg.png",RTL2
+#EXTVLCOPT:network-caching=2000
+http://5.135.92.133:52841/out/u/119_1.m3u8
+
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png",VOX
+#EXTVLCOPT:network-caching=2000
+http://5.135.92.133:52841/out/u/123_1.m3u8
+
+#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
+#EXTVLCOPT:network-caching=2000
+http://5.135.92.133:52841/out/u/509_1.m3u8
+
+#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png",Prosieben
+#EXTVLCOPT:network-caching=2000
+http://188.35.9.5:10020/stolen/496w/hot.dll
+
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/prosiebenmaxx/logo/prosiebenmaxx_ox__W1000xh0.jpg",Prosieben Maxx
+#EXTVLCOPT:network-caching=2000
+http://188.35.9.5:10020/stolen/500w/hot.dll
