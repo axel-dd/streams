@@ -1,144 +1,108 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-#EXTVLCOPT:network-caching=2000
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/500px-Das_Erste_2014.svg.png",Das Erste HD
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-#EXTVLCOPT:network-caching=2000
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/500px-ZDF_logo.svg.png",ZDF HD
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="BR Nord HD" tvg-id="BR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Nord HD
-#EXTVLCOPT:network-caching=2000
-https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
-
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
-#EXTVLCOPT:network-caching=2000
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
-
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
-#EXTVLCOPT:network-caching=2000
-https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
-
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
-#EXTVLCOPT:network-caching=2000
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
-
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
-#EXTVLCOPT:network-caching=2000
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
-
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
-#EXTVLCOPT:network-caching=2000
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
-
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Nachrichten" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
-#EXTVLCOPT:network-caching=2000
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
-
-#EXTINF:-1 tvg-name="WELT" tvg-id="welt.de" group-title="Nachrichten;Dokumentationen" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
-#EXTVLCOPT:network-caching=2000
-https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
-
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Spartenprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
-#EXTVLCOPT:network-caching=2000
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
-
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" group-title="Kinder / Jugend" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
-#EXTVLCOPT:network-caching=2000
-https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
-#EXTVLCOPT:network-caching=2000
-https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3680_av-p.m3u8
-
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR HD
-#EXTVLCOPT:network-caching=2000
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3744.m3u8
-
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="ndr.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR HD
-#EXTVLCOPT:network-caching=2000
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-
-#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
-#EXTVLCOPT:network-caching=2000
+#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/500px-MDR_Logo_2017.svg.png",MDR Sachsen HD
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
 
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
-#EXTVLCOPT:network-caching=2000
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/500px-ZDFinfo_2011.svg.png",ZDFinfo HD
+https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR HD
-#EXTVLCOPT:network-caching=2000
-https://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/500px-ZDFneo2017_Logo.svg.png",ZDFneo HD
+https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="Regional" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
-#EXTVLCOPT:network-caching=2000
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
+#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Phoenix_Logo_2018_ohne_Claim.svg/500px-Phoenix_Logo_2018_ohne_Claim.svg.png",phoenix
+https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Vollprogramm" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
-#EXTVLCOPT:network-caching=2000
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
 https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8
 
-#EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/dresdenfernsehen.png",Dresden Fernsehen
-#EXTVLCOPT:network-caching=2000
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 
-#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
-#EXTVLCOPT:network-caching=2000
-https://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 
-#EXTINF:-1 tvg-name="TVO" tvg-id="tvo.de" group-title="Lokal" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO
-#EXTVLCOPT:network-caching=2000
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
 
-#EXTINF:-1 tvg-name="ORF 1 HD" tvg-id="ORF1.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF 1 HD
-#EXTVLCOPT:network-caching=2000
-https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="BR Nord HD" tvg-id="BR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Nord HD
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
 
-#EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
-#EXTVLCOPT:network-caching=2000
-https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/wdrhd.png",WDR HD
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3680_av-p.m3u8
 
-#EXTINF:-1 tvg-name="ORF 3 HD" tvg-id="ORF3.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF 3 HD
-#EXTVLCOPT:network-caching=2000
-https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/swrhd.png",SWR HD
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3744.m3u8
 
-#EXTINF:-1 tvg-name="ORF Sport HD" tvg-id="ORFSport.at" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF Sport HD
-#EXTVLCOPT:network-caching=2000
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR HD
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 
-#EXTINF:-1 tvg-name="DW TV" tvg-id="dw.com" group-title="International" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",DW TV
-#EXTVLCOPT:network-caching=2000
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+
+#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/srhd.png",SR HD
+https://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+
+#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-name="DW-TV" tvg-id="dwtv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/500px-Deutsche_Welle_symbol_2012.svg.png",DW TV
 https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
 
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" group-title="Private" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/RTL_Logo_ab_dem_1._September_2017.png",RTL
-#EXTVLCOPT:network-caching=2000
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
+
+#EXTINF:-1 tvg-name="WELT" tvg-id="welt.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="DresdenTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Dresden_Fernsehen.gif/640px-Logo_Dresden_Fernsehen.gif",Dresden Fernsehen
+https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="frankenfernsehen.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Franken_Fernsehen_Logo_2010.svg/500px-Franken_Fernsehen_Logo_2010.svg.png",Franken Fernsehen
+https://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Oberfranken" tvg-id="tvo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_TV-Oberfranken.svg/500px-Logo_TV-Oberfranken.svg.png",TVO
+https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ORF 1 HD" tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF 1 HD
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+
+#EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
+
+#EXTINF:-1 tvg-name="ORF 3 HD" tvg-id="ORF3.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF 3 HD
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
+
+#EXTINF:-1 tvg-name="ORF Sport HD" tvg-id="ORFSport.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF Sport HD
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/RTL_%28de%29_Logo_2020.svg/500px-RTL_%28de%29_Logo_2020.svg.png",RTL
 http://5.135.92.133:52841/out/u/115_1.m3u8
 
-#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png",RTL Nitro
-#EXTVLCOPT:network-caching=2000
-http://188.35.9.5:10020/stolen/479d/hot.dll
-
-#EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png",RTL Plus
-#EXTVLCOPT:network-caching=2000
-http://188.35.9.5:10020/stolen/480c/hot.dll
-
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/2000px-RTL2_Logo.svg.png",RTL2
-#EXTVLCOPT:network-caching=2000
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/500px-RTL2_Logo.svg.png",RTL2
 http://5.135.92.133:52841/out/u/119_1.m3u8
 
-#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/de/a/ac/VOX_Logo.png",VOX
-#EXTVLCOPT:network-caching=2000
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/500px-VOX_Logo_2013.svg.png",VOX
 http://5.135.92.133:52841/out/u/123_1.m3u8
 
-#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-#EXTVLCOPT:network-caching=2000
+#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/500px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
 http://5.135.92.133:52841/out/u/509_1.m3u8
 
-#EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/1200px-ProSieben_Logo_2015.svg.png",Prosieben
-#EXTVLCOPT:network-caching=2000
-http://188.35.9.5:10020/stolen/496w/hot.dll
+# #EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/500px-ProSieben_Logo_2015.svg.png",Prosieben
+# http://188.35.9.5:10020/stolen/496w/hot.dll
 
-#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="http://pix4.qmde.de/www.quotenmeter.de/pics/prosiebenmaxx/logo/prosiebenmaxx_ox__W1000xh0.jpg",Prosieben Maxx
-#EXTVLCOPT:network-caching=2000
-http://188.35.9.5:10020/stolen/500w/hot.dll
+# #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/500px-RTL_Nitro_logo.svg.png",RTL Nitro
+# http://188.35.9.5:10020/stolen/479d/hot.dll
+
+# #EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png",RTL Plus
+# http://188.35.9.5:10020/stolen/480c/hot.dll
+
+# #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/500px-ProSieben_MAXX_Logo.svg.png",Prosieben Maxx
+# http://188.35.9.5:10020/stolen/500w/hot.dll
