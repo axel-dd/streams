@@ -54,7 +54,7 @@ https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
 
 #EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/2000px-SR_Fernsehen.svg.png",SR Fernsehen
-https://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
 
 #EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rbb_Logo_2017.08.svg/2000px-Rbb_Logo_2017.08.svg.png",rbb Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
