@@ -1,108 +1,78 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="ARD.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/2000px-Das_Erste_2014.svg.png",Das Erste HD
+#EXTINF:-1 tvg-name="Das Erste" tvg-id="ARD.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/2000px-Das_Erste_2014.svg.png",Das Erste
 https://mcdn.daserste.de/daserste/de/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2000px-ZDF_logo.svg.png",ZDF HD
+#EXTINF:-1 tvg-name="ZDF" tvg-id="ZDF.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/2000px-ZDF_logo.svg.png",ZDF
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="MDR Sachsen HD" tvg-id="MDRSachsen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/2000px-MDR_Logo_2017.svg.png",MDR Sachsen HD
+#EXTINF:-1 tvg-name="MDR Sachsen" tvg-id="MDRSachsen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/MDR_Logo_2017.svg/2000px-MDR_Logo_2017.svg.png",MDR Sachsen
 https://mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8
 
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/2000px-ZDFinfo_2011.svg.png",ZDFinfo HD
+#EXTINF:-1 tvg-name="ZDFinfo" tvg-id="ZDFinfo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ZDFinfo_2011.svg/2000px-ZDFinfo_2011.svg.png",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/2000px-ZDFneo2017_Logo.svg.png",ZDFneo HD
+#EXTINF:-1 tvg-name="ZDFneo" tvg-id="ZDFneo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ZDFneo2017_Logo.svg/2000px-ZDFneo2017_Logo.svg.png",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Phoenix_Logo_2018_ohne_Claim.svg/2000px-Phoenix_Logo_2018_ohne_Claim.svg.png",phoenix
+#EXTINF:-1 tvg-name="phoenix" tvg-id="phoenix.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Phoenix_Logo_2018_ohne_Claim.svg/2000px-Phoenix_Logo_2018_ohne_Claim.svg.png",phoenix
 https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
+#EXTINF:-1 tvg-name="ARTE" tvg-id="ARTE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Arte_Logo_2017.svg/2000px-Arte_Logo_2017.svg.png",ARTE
 https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
 
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
-https://zdfhls18-i.akamaihd.net/hls/live/744751/dach/3/3.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/3sat_2019.svg/2000px-3sat_2019.svg.png",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 
-#EXTINF:-1 tvg-name="one HD" tvg-id="One.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/onehd.png",one HD
+#EXTINF:-1 tvg-name="one" tvg-id="One.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/One_TV_Logo.svg/2000px-One_TV_Logo.svg.png",one
 https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ARD_alpha.svg/2000px-ARD_alpha.svg.png",ARD-alpha
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 
-#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/kika.png",KiKA
-https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
-
-#EXTINF:-1 tvg-name="BR Nord HD" tvg-id="BR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/brhd.png",BR Nord HD
-https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
-
-#EXTINF:-1 tvg-name="WDR HD" tvg-id="WDR.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/2000px-WDR_Dachmarke.svg.png",WDR HD
-https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/index_3680_av-p.m3u8
-
-#EXTINF:-1 tvg-name="SWR Baden-Württemberg HD " tvg-id="SWR.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SWR_Dachmarke_SW_logo.svg/2000px-SWR_Dachmarke_SW_logo.svg.png",SWR HD
-https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3744.m3u8
-
-#EXTINF:-1 tvg-name="NDR Niedersachsen HD" tvg-id="ndr.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndrhd.png",NDR HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-
-#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/hr.png",hr-fernsehen
-https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
-
-#EXTINF:-1 tvg-name="SR Fernsehen HD" tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/2000px-SR_Fernsehen.svg.png",SR HD
-https://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
-
-#EXTINF:-1 tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
-
-#EXTINF:-1 tvg-name="DW-TV" tvg-id="dwtv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2000px-Deutsche_Welle_symbol_2012.svg.png",DW TV
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+#EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/2000px-Kika_2012.svg.png",KiKA
+https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master.m3u8
 
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/2000px-Tagesschau24-2012.svg.png",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
 
-#EXTINF:-1 tvg-name="WELT" tvg-id="welt.de" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
+#EXTINF:-1 tvg-name="DW-TV" tvg-id="dwtv.com" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/2000px-Deutsche_Welle_symbol_2012.svg.png",DW TV
+https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-name="BR Fernsehen Nord" tvg-id="BR.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/BR_Fernsehen_2016.svg/2000px-BR_Fernsehen_2016.svg.png",BR Fernsehen Nord
+https://brlive-lh.akamaihd.net/i/bfsnord_germany@119898/master.m3u8
+
+#EXTINF:-1 tvg-name="WDR" tvg-id="WDR.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/WDR_Dachmarke.svg/2000px-WDR_Dachmarke.svg.png",WDR
+https://mcdn.wdr.de/wdr/wdrfs/de/master.m3u8
+
+#EXTINF:-1 tvg-name="SWR Baden-Württemberg" tvg-id="SWR.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/SWR_Dachmarke_SW_logo.svg/2000px-SWR_Dachmarke_SW_logo.svg.png",SWR Baden-Württemberg
+https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master_3744.m3u8
+
+#EXTINF:-1 tvg-name="NDR Niedersachsen" tvg-id="ndr.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png",NDR Niedersachsen
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
+
+#EXTINF:-1 tvg-name="hr-fernsehen" tvg-id="HR.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hr-fernsehen_Logo_2015.svg/2000px-Hr-fernsehen_Logo_2015.svg.png",hr-fernsehen
+https://hrlive1-lh.akamaihd.net/i/hr_fernsehen@75910/master.m3u8
+
+#EXTINF:-1 tvg-name="SR Fernsehen" tvg-id="SRFernsehen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SR_Fernsehen.svg/2000px-SR_Fernsehen.svg.png",SR Fernsehen
+https://fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8
+
+#EXTINF:-1 tvg-name="rbb Berlin" tvg-id="rbbBerlin.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Rbb_Logo_2017.08.svg/2000px-Rbb_Logo_2017.08.svg.png",rbb Berlin
+https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-name="Radio Bremen" tvg-id="RadioBremen.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Logo_Radio_Bremen.svg/2000px-Logo_Radio_Bremen.svg.png",Radio Bremen
+https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8
+
+#EXTINF:-1 tvg-name="WELT" tvg-id="welt.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Welt_TV_Logo_2016.svg/2000px-Welt_TV_Logo_2016.svg.png",WELT
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
 
-#EXTINF:-1 tvg-name="Dresden Fernsehen" tvg-id="DresdenTV.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_Dresden_Fernsehen.gif/640px-Logo_Dresden_Fernsehen.gif",Dresden Fernsehen
-https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="frankenfernsehen.tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Franken_Fernsehen_Logo_2010.svg/2000px-Franken_Fernsehen_Logo_2010.svg.png",Franken Fernsehen
-https://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TV Oberfranken" tvg-id="tvo.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Logo_TV-Oberfranken.svg/2000px-Logo_TV-Oberfranken.svg.png",TVO
-https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-
-#EXTINF:-1 tvg-name="ORF 1 HD" tvg-id="ORF1.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf1hd.png",ORF 1 HD
+#EXTINF:-1 tvg-name="ORF 1" tvg-id="ORF1.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/2000px-ORF_1_2019.svg.png",ORF 1
 https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
 
-#EXTINF:-1 tvg-name="ORF 2 HD" tvg-id="ORF2.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf2hd.png",ORF 2 HD
+#EXTINF:-1 tvg-name="ORF 2" tvg-id="ORF2.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ORF2_logo_n.svg/2000px-ORF2_logo_n.svg.png",ORF 2
 https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
 
-#EXTINF:-1 tvg-name="ORF 3 HD" tvg-id="ORF3.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orf3hd.png",ORF 3 HD
+#EXTINF:-1 tvg-name="ORF 3" tvg-id="ORF3.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/ORF_III_Logo_Monochrom.svg/2000px-ORF_III_Logo_Monochrom.svg.png",ORF 3
 https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 
-#EXTINF:-1 tvg-name="ORF Sport HD" tvg-id="ORFSport.at" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/orfsportplushd.png",ORF Sport HD
+#EXTINF:-1 tvg-name="ORF Sport" tvg-id="ORFSport.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/2000px-ORF_Sport%2B.svg.png",ORF Sport
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-
-#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/RTL_%28de%29_Logo_2020.svg/2000px-RTL_%28de%29_Logo_2020.svg.png",RTL
-http://5.135.92.133:52841/out/u/115_1.m3u8
-
-#EXTINF:-1 tvg-id="RTL2.de" tvg-name="RTL II" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/RTL2_Logo.svg/2000px-RTL2_Logo.svg.png",RTL2
-http://5.135.92.133:52841/out/u/119_1.m3u8
-
-#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/2000px-VOX_Logo_2013.svg.png",VOX
-http://5.135.92.133:52841/out/u/123_1.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport-1" tvg-name="Eurosport1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2000px-Eurosport_1_Logo_2015.svg.png",Eurosport 1
-http://5.135.92.133:52841/out/u/509_1.m3u8
-
-# #EXTINF:-1 tvg-id="Pro7.at" tvg-name="Prosieben" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/2000px-ProSieben_Logo_2015.svg.png",Prosieben
-# http://188.35.9.5:10020/stolen/496w/hot.dll
-
-# #EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="RTL Nitro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/RTL_Nitro_logo.svg/2000px-RTL_Nitro_logo.svg.png",RTL Nitro
-# http://188.35.9.5:10020/stolen/479d/hot.dll
-
-# #EXTINF:-1 tvg-id="RTLPlus.de" tvg-name="RTL Plus" tvg-logo="https://cdn.static-fra.de/rtlplus/images/template/rtlplus_logo.png",RTL Plus
-# http://188.35.9.5:10020/stolen/480c/hot.dll
-
-# #EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="ProSieben Maxx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/2000px-ProSieben_MAXX_Logo.svg.png",Prosieben Maxx
-# http://188.35.9.5:10020/stolen/500w/hot.dll
