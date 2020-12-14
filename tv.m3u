@@ -76,3 +76,30 @@ https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8
 
 #EXTINF:-1 tvg-name="ORF Sport" tvg-id="ORFSport.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/ORF_Sport%2B.svg/2000px-ORF_Sport%2B.svg.png",ORF Sport
 https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
+
+#EXTINF:-1 tvg-name="RTL" tvg-id="RTL.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/RTL_%28de%29_Logo_2020.svg/2000px-RTL_%28de%29_Logo_2020.svg.png",RTL
+https://s1.hopslan.com/rtl/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL II" tvg-id="RTL2.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/2000px-RTLZWEI_Logo_2019.svg.png",RTL II
+https://s4.hopslan.com/rtl2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sat.1" tvg-id="Sat1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Neues_Sat._1_Logo_transparent.png",Sat.1
+https://s1.hopslan.com/sat1q/index.m3u8
+
+#EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/2000px-ProSieben_Logo_2015.svg.png",ProSieben
+https://s1.hopslan.com/pro7/index.m3u8
+
+#EXTINF:-1 tvg-name="Super RTL" tvg-id="SuperRTL.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SuperRTL-2020.svg/2000px-SuperRTL-2020.svg.png",Super RTL
+https://s3.hopslan.com/supert/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL Nitro" tvg-id="RTLNitro.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Nitro_Logo.svg/2000px-Nitro_Logo.svg.png",RTL Nitro
+https://s2.hopslan.com/nitro/index.m3u8
+
+#EXTINF:-1 tvg-name="VOX" tvg-id="Vox.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/VOX_Logo_2013.svg/2000px-VOX_Logo_2013.svg.png",VOX
+https://s1.hopslan.com/vox/index.m3u8
+
+#EXTINF:-1 tvg-name="kabel eins" tvg-id="Kabel.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/2000px-Kabel_eins_Logo_2015.svg.png",kabel eins
+https://s1.hopslan.com/kabel1q/index.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-id="ntv.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/2000px-N-tv_logo-september2017.svg.png",NTV
+https://s5.hopslan.com/ntv/index.m3u8
