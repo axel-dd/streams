@@ -101,5 +101,35 @@ https://s1.hopslan.com/vox/index.m3u8
 #EXTINF:-1 tvg-name="kabel eins" tvg-id="Kabel.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Kabel_eins_Logo_2015.svg/2000px-Kabel_eins_Logo_2015.svg.png",kabel eins
 https://s1.hopslan.com/kabel1q/index.m3u8
 
-#EXTINF:-1 tvg-name="NTV" tvg-id="ntv.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/2000px-N-tv_logo-september2017.svg.png",NTV
+#EXTINF:-1 tvg-name="NTV" tvg-id="ntv.at" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/N-tv_logo-september2017.svg/2000px-N-tv_logo-september2017.svg.png",n-tv
 https://s5.hopslan.com/ntv/index.m3u8
+
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/2000px-TLC_Logo.svg.png",TLC
+https://s11.hopslan.com/tlc/index.m3u8
+
+#EXTINF:-1 tvg-name="sixx" tvg-id="Sixx.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sixx_Logo.svg/2000px-Sixx_Logo.svg.png",sixx
+https://s5.hopslan.com/sixx/index.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" tvg-id="DMax.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DMAX_BLACK.svg/2000px-DMAX_BLACK.svg.png",DMAX
+https://s11.hopslan.com/dmaxz/index.m3u8
+
+#EXTINF:-1 tvg-name="ProSieben Maxx" tvg-id="ProSiebenMaxx.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/2000px-ProSieben_MAXX_Logo.svg.png",ProSieben Maxx
+https://s3.hopslan.com/pro7maxx/index.m3u8
+
+#EXTINF:-1 tvg-name="kabel eins Doku" tvg-id="KabelEinsDoku.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kabel_eins_Doku_Logo_2016.svg/2000px-Kabel_eins_Doku_Logo_2016.svg.png",kabel eins Doku
+https://s3.hopslan.com/dokuu/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="disneychannel.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel
+https://s5.hopslan.com/disney/index.m3u8
+
+#EXTINF:-1 tvg-name="Tele 5" tvg-id="Tele5.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Televisionarchivegermany-TELE5Logo2019.png",Tele 5
+https://s3.hopslan.com/tele55/index.m3u8
+
+#EXTINF:-1 tvg-name="VIVA/COMEDY CENTRAL" tvg-id="ComedyCentralVIVA.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/2000px-Comedy_Central_2018.svg.png",Comedy Central
+https://s2.hopslan.com/viva/index.m3u8
+
+#EXTINF:-1 tvg-name="Nick DE" tvg-id="Nickelodeon.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",Nick
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/2000px-Sky_Sport_News_2020.svg.png",Sky Sport News
+https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
