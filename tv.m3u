@@ -129,7 +129,7 @@ https://s3.hopslan.com/tele55/index.m3u8
 https://s2.hopslan.com/viva/index.m3u8
 
 #EXTINF:-1 tvg-name="Nick DE" tvg-id="Nickelodeon.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/2000px-Nick.svg.png",Nick
-https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
+https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8
 
 #EXTINF:-1 tvg-name="Sky Sport News HD" tvg-id="SkySportNewsHD.de" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cc/Sky_Sport_News_2020.svg/2000px-Sky_Sport_News_2020.svg.png",Sky Sport News
 https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
