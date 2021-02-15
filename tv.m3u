@@ -30,7 +30,7 @@ https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
 https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
 
 #EXTINF:-1 tvg-name="KiKA" tvg-id="Kika.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kika_2012.svg/2000px-Kika_2012.svg.png",KiKA
-https://kikageohls-i.akamaihd.net/hls/live/1006268-b/livetvkika_de/master.m3u8
+https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Tagesschau24-2012.svg/2000px-Tagesschau24-2012.svg.png",tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8
@@ -83,7 +83,7 @@ https://s1.hopslan.com/rtl/index.m3u8
 #EXTINF:-1 tvg-name="RTL II" tvg-id="RTL2.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/2000px-RTLZWEI_Logo_2019.svg.png",RTL II
 https://s4.hopslan.com/rtl2/index.m3u8
 
-#EXTINF:-1 tvg-name="Sat.1" tvg-id="Sat1.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Neues_Sat._1_Logo_transparent.png",Sat.1
+#EXTINF:-1 tvg-name="Sat.1" tvg-id="Sat1.de" tvg-logo="https://www.sat1.de/images/sat1-logo.png",Sat.1
 https://s1.hopslan.com/sat1q/index.m3u8
 
 #EXTINF:-1 tvg-name="ProSieben" tvg-id="Pro7.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/ProSieben_Logo_2015.svg/2000px-ProSieben_Logo_2015.svg.png",ProSieben
